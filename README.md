@@ -44,7 +44,7 @@ Users were able to search for products that they wanted. By managing caching and
 
 ## Map and Product Details
 
-Once the user had found the product that they were looking, they were provided with directions to the shop that stocked it. This was achieved by overlaying a live map with real-time directions. As a result, the directions updated as the user travelled towards the shop
+Once the user had found the product that they were looking, they were provided with directions to the shop that stocked it. This was achieved by overlaying a live map with real-time directions. As a result, the directions updated as the user travelled towards the shop.
 
 <img src="stckchck/Stocksee/Resources/Assets.xcassets/MapAndProductDetails.gif" width="375">
 
