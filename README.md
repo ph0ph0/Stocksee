@@ -6,7 +6,7 @@
 
 Stocksee was a business that I started after being tired of searching shops on the highstreet for products that I wanted to buy right now. A product search on Google takes a few seconds, but trying to find the same product sold by a nearby retailer could take you hours. We live in the 21st century and the retail experience needed modernising, so I built Stocksee. 
 
-Stocksee is a tech solution, with a consumer facing app that allows users to search the shelves of local retailers, whilst providing retailers with consumer insights relevant to their customer demographic using cutting-edge analytics. I built the entire platform myself, as well as undertaking everything that a business needs to grow; sales, marketing, investment etc). All graphic design work, animations, UI and UX was also done solely by me. Some of the technologies I used included:
+Stocksee is a tech solution, with a consumer facing app that allows users to search the shelves of local retailers, whilst providing retailers with consumer insights relevant to their customer demographic using cutting-edge analytics. I built the entire platform myself, as well as undertaking everything that a business needs to grow (sales, marketing, investment etc). All graphic design work, animations, UI and UX was also done solely by me. Some of the technologies I used included:
 
 * Custom Analytics
 * Firebase
@@ -22,7 +22,7 @@ Stocksee is a tech solution, with a consumer facing app that allows users to sea
 * Custom Animations
 * OAuth Login
 
-The app was released in London, and I managed to grow it to over 600 retail locations across the city!  
+The app was released in London, and I managed to grow it to over 600 retail locations across the city.  
 
 ## Intro and Signup
 
