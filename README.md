@@ -4,4 +4,4 @@
 
 ## Search the shelves of nearby shops
 
-![](2019_09_03_Filters_GIF.gif)
+![](2019_09_03_Filters_GIF.gif | width=100)
