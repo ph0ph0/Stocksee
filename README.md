@@ -4,4 +4,8 @@
 
 ## Search the shelves of nearby shops
 
-<img src="2019_09_03_Filters_GIF.gif" width="375">
+<img src="stckchck/Stocksee/Resources/Assets.xcassets/Intro&Signup.gif" width="375">
+<img src="stckchck/Stocksee/Resources/Assets.xcassets/Filters.gif" width="375">
+<img src="stckchck/Stocksee/Resources/Assets.xcassets/SearchAndDistance.gif" width="375">
+<img src="stckchck/Stocksee/Resources/Assets.xcassets/MapAndProductDetails.gif" width="375">
+
