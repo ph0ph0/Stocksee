@@ -38,7 +38,7 @@ Custom complex search was built using filters, allowing users to refine their se
 
 ## Searching for and Locating Products
 
-Users were able to search for products that they wanted. By managing caching and querying, a fast and responsive search experience was provided.
+Users were able to search for products that they wanted. By managing caching and querying, a fast and responsive search experience was provided. I implemented a custom gesture that allowed users to change their search radius by pinching their screen.
 
 <img src="stckchck/Stocksee/Resources/Assets.xcassets/SearchAndDistance.gif" width="375">
 
