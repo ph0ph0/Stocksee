@@ -1,0 +1,54 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Stocksee' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Stocksee
+
+  # Pods for Firebase
+
+    pod 'Firebase/Firestore'
+    pod 'Firebase/Core'
+    pod 'Firebase/Database'
+    pod 'Firebase/RemoteConfig'
+    pod 'Firebase/Auth'
+    pod ‘Firebase/Messaging’
+    pod ‘Firebase/Storage’
+    pod 'Firebase/Performance'
+    pod 'Fabric'
+    pod 'Crashlytics'
+    pod 'FirebaseAnalytics'
+    pod 'GoogleSignIn'
+
+    # Pods for Dwifft, i.e. tV auto update
+
+    pod 'Dwifft', '~> 0.8'
+
+   # Pods for Algolia, i.e. advanced search
+
+   pod 'InstantSearch-Core-Swift'
+
+   # Pods for Reachability
+
+   pod ‘ReachabilitySwift'
+
+   # Pods for LottieAnimation
+
+   pod 'lottie-ios'
+
+   # Pods for FB
+
+    pod 'FBSDKLoginKit'
+
+   # Pods for MapBox
+
+   pod 'Mapbox-iOS-SDK', '~> 4.4'
+
+   # Pods for IGListKit
+
+   pod 'IGListKit', '~> 3.0'
+
+
+end
