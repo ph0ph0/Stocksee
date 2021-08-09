@@ -22,7 +22,7 @@ Stocksee is a tech solution, with a consumer facing app that allows users to sea
 * Custom Animations
 * OAuth Login
 
-The app was released in London, and I managed to grow it to over 600 retail locations across the city.  
+The app was released in London, and I managed to grow it to over 600 retail locations across the city. Unfortunately, the pandemic hit us and our partners hard, and we had to wind down the platform. However, I am pleased that some of the technology that I developed has been adopted by other startups in the retail tech space.  
 
 ## Intro and Signup
 
